@@ -1,0 +1,40 @@
+.counter-container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.counter-value {
+    font-size: 48px;
+    margin: 20px 0;
+    color: #ffffff;
+    margin-top: 50px;
+}
+
+.button-group button {
+    margin: 15px;
+    margin-top: 50px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button-group button:hover {
+    background-color: #0056b3;
+}
+
+h1 {
+    color: rgba(255, 255, 255, 0.815);
+    font-size: 46px;
+}
+
+u,
+h6 {
+    margin-top: 100px;
+    color: #007bff;
+    font-size: 20px;
+    font-style: italic;
+}
